@@ -1,0 +1,4 @@
+# Download these in the data folder
+
+https://www.kaggle.com/datasets/dansbecker/home-data-for-ml-course
+https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot
